@@ -1,16 +1,17 @@
 This is an example of a React Table made in Next.JS to check various functionalities. 
 Current Functionalities include:
-General Alphabetical Sorting
-Filtering All Table
+- General Alphabetical Sorting
+- Filtering All Table
 
 To Add Soon:
-Pagination
-Searching in Columns Alone
-Sorting Date Objects
-Filtering Date Ranges
-Deleting Rows
-Adding Rows
-Editting Cells
+- Comments for Existing Code's Explanation
+- Pagination
+- Searching in Columns Alone
+- Sorting Date Objects
+- Filtering Date Ranges
+- Deleting Rows
+- Adding Rows
+- Editting Cells
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
