@@ -1,0 +1,20 @@
+.table {
+  border-collapse: collapse;
+  border: 1px solid #ddd;
+  margin-top: 2vh;
+  width: 100%;
+}
+
+.table th, .table td {
+  border: 1px solid #ddd;
+  padding: 12px;
+  text-align: center;
+}
+
+.table thead th {
+  background-color: #f0f0f0; /* Header background color */
+}
+
+.table tbody tr:nth-child(even) {
+  background-color: #f9f9f9; /* Alternate row shading */
+}
